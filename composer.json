@@ -1,5 +1,5 @@
 {
-    "name": "dcat-admin-extensions/log-viewer",
+    "name": "chang/dcat-admin-extensions/log-viewer",
     "description": "查看laravel运行日志",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
