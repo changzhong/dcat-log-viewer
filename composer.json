@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
     "homepage": "https://github.com/dcat-admin-extensions/log-viewer",
-    "license": "chang",
+    "license": "MIT",
     "authors": [
         {
             "name": "chang",
