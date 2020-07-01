@@ -1,0 +1,26 @@
+{
+    "name": "dcat-admin-extensions/log-viewer",
+    "description": "查看laravel运行日志",
+    "type": "library",
+    "keywords": ["dcat-admin", "extension"],
+    "homepage": "https://github.com/dcat-admin-extensions/log-viewer",
+    "license": "chang",
+    "authors": [
+        {
+            "name": "chang",
+            "email": "632867905@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dcat\\Admin\\Extension\\LogViewer\\": "src/"
+        },
+         "files": [
+            "src/bootstrap.php"
+        ]
+    }
+}
